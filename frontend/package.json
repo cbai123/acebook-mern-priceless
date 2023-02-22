@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "proxy": "http://localhost:8080",
   "dependencies": {
     "css-loader": "^6.7.3",
