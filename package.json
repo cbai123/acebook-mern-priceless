@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChrisHutchinson1982/acebook-mern-priceless.git"
+    "url": "git+https://github.com/cbai123/acebook-mern-priceless.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ChrisHutchinson1982/acebook-mern-priceless/issues"
+    "url": "https://github.com/cbai123/acebook-mern-priceless/issues"
   },
-  "homepage": "https://github.com/ChrisHutchinson1982/acebook-mern-priceless#readme",
+  "homepage": "https://github.com/cbai123/acebook-mern-priceless#readme",
   "devDependencies": {
     "eslint": "^8.31.0",
     "eslint-plugin-react": "^7.31.11"
